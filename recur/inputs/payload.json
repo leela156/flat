@@ -1,0 +1,22 @@
+[
+ [
+  [
+   [
+    [{
+     "Company": "Amazon"
+    }]
+   ],
+   [{
+    "Location": "Hyderabad"
+   }]
+  ],
+  [
+   [{
+    "course": "Java"
+   }]
+  ]
+ ],
+ [{
+  "CEO": "Andy Jassy"
+ }]
+]
